@@ -1,0 +1,29 @@
+{
+  "name": "node-red-flowviewer-js",
+  "version": "0.1.0",
+  "description": "Create renderings of your Node-RED flows in the browser.",
+  "type": "module",
+  "main": "flowviewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorenje/node-red-flowviewer-js.git"
+  },
+  "keywords": [
+    "node-red",
+    "flows",
+    "markdown",
+    "rendering"
+  ],
+  "author": "Gerrit Riessen",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/gorenje/node-red-flowviewer-js/issues"
+  },
+  "homepage": "https://github.com/gorenje/node-red-flowviewer-js#readme",
+  "dependencies": {
+    "jsdom": "^25.0.1"
+  }
+}
